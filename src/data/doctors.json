@@ -1,0 +1,596 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Brown",
+    "specialization": "Gynecologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/10.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Brown brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Brown brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Brown brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "22 years",
+    "workplace": "Fortis Healthcare"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Emily Brown",
+    "specialization": "General Physician",
+    "profileImage": "https://randomuser.me/api/portraits/women/11.jpg",
+    "availability": "Fully Booked",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Brown brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. Emily Brown has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Brown brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. Emily Brown has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Brown brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. Emily Brown has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "21 years",
+    "workplace": "Fortis Healthcare"
+  },
+  {
+    "id": 3,
+    "name": "Dr. John Smith",
+    "specialization": "Cardiologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/12.jpg",
+    "availability": "On Leave",
+    "description": "Dr. Dr. John Smith is a renowned Cardiologist with a stellar reputation for delivering top-tier healthcare. Dr. Dr. John Smith believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare. Dr. Dr. John Smith is a renowned Cardiologist with a stellar reputation for delivering top-tier healthcare. Dr. Dr. John Smith believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare. Dr. Dr. John Smith is a renowned Cardiologist with a stellar reputation for delivering top-tier healthcare. Dr. Dr. John Smith believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "8 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Emily Lee",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/13.jpg",
+    "availability": "Fully Booked",
+    "description": "With an impressive career spanning over 17 years years, Dr. Dr. Emily Lee has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Lee has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 17 years years, Dr. Dr. Emily Lee has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Lee has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 17 years years, Dr. Dr. Emily Lee has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Lee has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "17 years",
+    "workplace": "Columbia Asia"
+  },
+  {
+    "id": 5,
+    "name": "Dr. John Wilson",
+    "specialization": "Cardiologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/14.jpg",
+    "availability": "On Leave",
+    "description": "With an impressive career spanning over 7 years years, Dr. Dr. John Wilson has made significant contributions to the field of Cardiologist. Dr. Dr. John Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare. With an impressive career spanning over 7 years years, Dr. Dr. John Wilson has made significant contributions to the field of Cardiologist. Dr. Dr. John Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare. With an impressive career spanning over 7 years years, Dr. Dr. John Wilson has made significant contributions to the field of Cardiologist. Dr. Dr. John Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Cardiologist. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "7 years",
+    "workplace": "Columbia Asia"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Emily Johnson",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/15.jpg",
+    "availability": "Available Today",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Johnson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Johnson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Johnson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Johnson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Johnson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Johnson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": true
+      }
+    ],
+    "experience": "7 years",
+    "workplace": "Apollo Hospitals"
+  },
+  {
+    "id": 7,
+    "name": "Dr. John Wilson",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/men/16.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "3 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Emily Wilson",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/women/17.jpg",
+    "availability": "Available Today",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Pediatrician. Dr. Dr. Emily Wilson's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Pediatrician. Dr. Dr. Emily Wilson's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Pediatrician. Dr. Dr. Emily Wilson's unwavering commitment to excellence has earned the trust and respect of patients and peers alike.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "28 years",
+    "workplace": "Manipal Hospitals"
+  },
+  {
+    "id": 9,
+    "name": "Dr. John Lee",
+    "specialization": "Gynecologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+    "availability": "Available Today",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Lee brings a wealth of experience and compassion to every consultation. Dr. Dr. John Lee believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Outside of the clinic, Dr. Dr. John Lee is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Lee brings a wealth of experience and compassion to every consultation. Dr. Dr. John Lee believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Outside of the clinic, Dr. Dr. John Lee is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Lee brings a wealth of experience and compassion to every consultation. Dr. Dr. John Lee believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Outside of the clinic, Dr. Dr. John Lee is passionate about educating the public about preventive healthcare.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "5 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Emily Wilson",
+    "specialization": "Gynecologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/19.jpg",
+    "availability": "On Leave",
+    "description": "With an impressive career spanning over 19 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Gynecologist. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 19 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Gynecologist. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 19 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Gynecologist. Dr. Dr. Emily Wilson believes in continuous learning and regularly attends international medical conferences to stay updated with the latest advancements in Gynecologist. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "19 years",
+    "workplace": "Global Hospitals"
+  },
+  {
+    "id": 11,
+    "name": "Dr. John Smith",
+    "specialization": "Psychiatrist",
+    "profileImage": "https://randomuser.me/api/portraits/men/20.jpg",
+    "availability": "On Leave",
+    "description": "Dr. Dr. John Smith is a renowned Psychiatrist with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. John Smith has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare. Dr. Dr. John Smith is a renowned Psychiatrist with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. John Smith has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare. Dr. Dr. John Smith is a renowned Psychiatrist with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Fortis Healthcare, Dr. Dr. John Smith has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Smith is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "26 years",
+    "workplace": "Fortis Healthcare"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Emily Wilson",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/21.jpg",
+    "availability": "Fully Booked",
+    "description": "Dr. Dr. Emily Wilson is a renowned Dermatologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. Emily Wilson is passionate about educating the public about preventive healthcare. Dr. Dr. Emily Wilson is a renowned Dermatologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. Emily Wilson is passionate about educating the public about preventive healthcare. Dr. Dr. Emily Wilson is a renowned Dermatologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. Emily Wilson is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "29 years",
+    "workplace": "Medanta"
+  },
+  {
+    "id": 13,
+    "name": "Dr. John Wilson",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/22.jpg",
+    "availability": "On Leave",
+    "description": "With an impressive career spanning over 30 years years, Dr. Dr. John Wilson has made significant contributions to the field of Dermatologist. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 30 years years, Dr. Dr. John Wilson has made significant contributions to the field of Dermatologist. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 30 years years, Dr. Dr. John Wilson has made significant contributions to the field of Dermatologist. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "30 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Emily Wilson",
+    "specialization": "Neurologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/23.jpg",
+    "availability": "Available Today",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Global Hospitals, Dr. Dr. Emily Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Global Hospitals, Dr. Dr. Emily Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Global Hospitals, Dr. Dr. Emily Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "26 years",
+    "workplace": "Global Hospitals"
+  },
+  {
+    "id": 15,
+    "name": "Dr. John Lee",
+    "specialization": "Neurologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/24.jpg",
+    "availability": "Fully Booked",
+    "description": "With an impressive career spanning over 13 years years, Dr. Dr. John Lee has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. John Lee is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 13 years years, Dr. Dr. John Lee has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. John Lee is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 13 years years, Dr. Dr. John Lee has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. John Lee is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Lee's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "13 years",
+    "workplace": "Columbia Asia"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Emily Wilson",
+    "specialization": "Neurologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/25.jpg",
+    "availability": "Available Today",
+    "description": "With an impressive career spanning over 8 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 8 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 8 years years, Dr. Dr. Emily Wilson has made significant contributions to the field of Neurologist. In addition to practicing medicine, Dr. Dr. Emily Wilson is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "8 years",
+    "workplace": "Global Hospitals"
+  },
+  {
+    "id": 17,
+    "name": "Dr. John Brown",
+    "specialization": "ENT Specialist",
+    "profileImage": "https://randomuser.me/api/portraits/men/26.jpg",
+    "availability": "Fully Booked",
+    "description": "With an impressive career spanning over 29 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 29 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 29 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "29 years",
+    "workplace": "Manipal Hospitals"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Emily Smith",
+    "specialization": "ENT Specialist",
+    "profileImage": "https://randomuser.me/api/portraits/women/27.jpg",
+    "availability": "On Leave",
+    "description": "With an impressive career spanning over 5 years years, Dr. Dr. Emily Smith has made significant contributions to the field of ENT Specialist. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 5 years years, Dr. Dr. Emily Smith has made significant contributions to the field of ENT Specialist. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 5 years years, Dr. Dr. Emily Smith has made significant contributions to the field of ENT Specialist. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "5 years",
+    "workplace": "Manipal Hospitals"
+  },
+  {
+    "id": 19,
+    "name": "Dr. John Johnson",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/28.jpg",
+    "availability": "Available Today",
+    "description": "With an impressive career spanning over 26 years years, Dr. Dr. John Johnson has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare. With an impressive career spanning over 26 years years, Dr. Dr. John Johnson has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare. With an impressive career spanning over 26 years years, Dr. Dr. John Johnson has made significant contributions to the field of Dermatologist. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "26 years",
+    "workplace": "Medanta"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Emily Brown",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/women/29.jpg",
+    "availability": "On Leave",
+    "description": "Dr. Dr. Emily Brown is a renowned Pediatrician with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Dr. Dr. Emily Brown is a renowned Pediatrician with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Dr. Dr. Emily Brown is a renowned Pediatrician with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "4 years",
+    "workplace": "Medanta"
+  },
+  {
+    "id": 21,
+    "name": "Dr. John Brown",
+    "specialization": "ENT Specialist",
+    "profileImage": "https://randomuser.me/api/portraits/men/30.jpg",
+    "availability": "Available Today",
+    "description": "With an impressive career spanning over 16 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 16 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 16 years years, Dr. Dr. John Brown has made significant contributions to the field of ENT Specialist. In addition to practicing medicine, Dr. Dr. John Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. John Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": false
+      }
+    ],
+    "experience": "16 years",
+    "workplace": "Care Hospitals"
+  },
+  {
+    "id": 22,
+    "name": "Dr. Emily Smith",
+    "specialization": "General Physician",
+    "profileImage": "https://randomuser.me/api/portraits/women/31.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. Emily Smith has gained extensive experience in both clinical and academic settings. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike.",
+    "appointments": [],
+    "experience": "21 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 23,
+    "name": "Dr. John Wilson",
+    "specialization": "ENT Specialist",
+    "profileImage": "https://randomuser.me/api/portraits/men/32.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. John Wilson is actively involved in medical research and community health initiatives. Outside of the clinic, Dr. Dr. John Wilson is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "18 years",
+    "workplace": "AIIMS"
+  },
+  {
+    "id": 24,
+    "name": "Dr. Emily Smith",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/women/33.jpg",
+    "availability": "Fully Booked",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Smith's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "7 years",
+    "workplace": "Narayana Health"
+  },
+  {
+    "id": 25,
+    "name": "Dr. John Wilson",
+    "specialization": "General Physician",
+    "profileImage": "https://randomuser.me/api/portraits/men/34.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. John Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. John Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Known for a patient-centric approach, Dr. Dr. John Wilson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Max Super Speciality Hospital, Dr. Dr. John Wilson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. John Wilson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "25 years",
+    "workplace": "Max Super Speciality Hospital"
+  },
+  {
+    "id": 26,
+    "name": "Dr. Emily Smith",
+    "specialization": "General Physician",
+    "profileImage": "https://randomuser.me/api/portraits/women/35.jpg",
+    "availability": "On Leave",
+    "description": "Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike. Known for a patient-centric approach, Dr. Dr. Emily Smith brings a wealth of experience and compassion to every consultation. In addition to practicing medicine, Dr. Dr. Emily Smith is actively involved in medical research and community health initiatives. Dr. Dr. Emily Smith's unwavering commitment to excellence has earned the trust and respect of patients and peers alike.",
+    "appointments": [],
+    "experience": "25 years",
+    "workplace": "Columbia Asia"
+  },
+  {
+    "id": 27,
+    "name": "Dr. John Brown",
+    "specialization": "General Physician",
+    "profileImage": "https://randomuser.me/api/portraits/men/36.jpg",
+    "availability": "Available Today",
+    "description": "Dr. Dr. John Brown is a renowned General Physician with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. John Brown has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare. Dr. Dr. John Brown is a renowned General Physician with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. John Brown has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare. Dr. Dr. John Brown is a renowned General Physician with a stellar reputation for delivering top-tier healthcare. Having worked at esteemed institutions like Manipal Hospitals, Dr. Dr. John Brown has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Brown is passionate about educating the public about preventive healthcare.",
+    "appointments": [
+      {
+        "time": "2025-08-01 09:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 10:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 11:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 12:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 13:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 14:00",
+        "isBooked": false
+      },
+      {
+        "time": "2025-08-01 15:00",
+        "isBooked": true
+      },
+      {
+        "time": "2025-08-01 16:00",
+        "isBooked": true
+      }
+    ],
+    "experience": "17 years",
+    "workplace": "Manipal Hospitals"
+  },
+  {
+    "id": 28,
+    "name": "Dr. Emily Brown",
+    "specialization": "Neurologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/37.jpg",
+    "availability": "Fully Booked",
+    "description": "Dr. Dr. Emily Brown is a renowned Neurologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Dr. Dr. Emily Brown is a renowned Neurologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. Dr. Dr. Emily Brown is a renowned Neurologist with a stellar reputation for delivering top-tier healthcare. In addition to practicing medicine, Dr. Dr. Emily Brown is actively involved in medical research and community health initiatives. Patients appreciate Dr. Dr. Emily Brown's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "17 years",
+    "workplace": "Fortis Healthcare"
+  },
+  {
+    "id": 29,
+    "name": "Dr. John Johnson",
+    "specialization": "Cardiologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/38.jpg",
+    "availability": "Fully Booked",
+    "description": "Known for a patient-centric approach, Dr. Dr. John Johnson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Johnson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare. Known for a patient-centric approach, Dr. Dr. John Johnson brings a wealth of experience and compassion to every consultation. Having worked at esteemed institutions like Medanta, Dr. Dr. John Johnson has gained extensive experience in both clinical and academic settings. Outside of the clinic, Dr. Dr. John Johnson is passionate about educating the public about preventive healthcare.",
+    "appointments": [],
+    "experience": "30 years",
+    "workplace": "Medanta"
+  },
+  {
+    "id": 30,
+    "name": "Dr. Emily Johnson",
+    "specialization": "Psychiatrist",
+    "profileImage": "https://randomuser.me/api/portraits/women/39.jpg",
+    "availability": "Fully Booked",
+    "description": "With an impressive career spanning over 16 years years, Dr. Dr. Emily Johnson has made significant contributions to the field of Psychiatrist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Johnson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 16 years years, Dr. Dr. Emily Johnson has made significant contributions to the field of Psychiatrist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Johnson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs. With an impressive career spanning over 16 years years, Dr. Dr. Emily Johnson has made significant contributions to the field of Psychiatrist. Having worked at esteemed institutions like Columbia Asia, Dr. Dr. Emily Johnson has gained extensive experience in both clinical and academic settings. Patients appreciate Dr. Dr. Emily Johnson's empathetic communication style and detailed treatment plans that are tailored to each individual's needs.",
+    "appointments": [],
+    "experience": "16 years",
+    "workplace": "Columbia Asia"
+  }
+]
